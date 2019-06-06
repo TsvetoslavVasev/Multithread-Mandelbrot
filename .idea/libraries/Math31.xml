@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Math31">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/untitled104/Dependencies/Math3/commons-math3-3.6.1-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/untitled104/Dependencies/Math3/commons-math3-3.6.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/untitled104/Dependencies/Math3/commons-math3-3.6.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/untitled104/Dependencies/Math3/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/untitled104/Dependencies/Math3/commons-math3-3.6.1-test-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/untitled104/Dependencies/Math3/commons-math3-3.6.1-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
